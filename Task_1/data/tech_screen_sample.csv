@@ -1,0 +1,10 @@
+batch,record_id,value
+alpha,1,10.0
+alpha,2,20.5
+alpha,2,99.0
+beta,1,5.0
+beta,2,-3.0
+beta,3,7.5
+gamma,1,1.0
+gamma,1,100.0
+gamma,2,2.0
